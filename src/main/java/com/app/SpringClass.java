@@ -5,6 +5,7 @@ public class SpringClass {
 		System.out.println("This is Surendra");
 
 		System.out.println("This is S");
+		System.out.println("This is S");
 	}
 
 }
